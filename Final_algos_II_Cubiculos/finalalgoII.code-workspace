@@ -10,7 +10,11 @@
 			"iostream": "cpp",
 			"optional": "cpp",
 			"format": "cpp",
-			"system_error": "cpp"
+			"system_error": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"vector": "cpp",
+			"*.tcc": "cpp"
 		}
 	}
 }
